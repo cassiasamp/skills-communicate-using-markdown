@@ -10,3 +10,6 @@
 ``` python
 import pandas as pd
 ```
+- [x] Finishing this lesson
+- [x] Completing the challenges
+- [ ] Taking the certification
